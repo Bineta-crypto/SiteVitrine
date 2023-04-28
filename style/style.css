@@ -1,0 +1,127 @@
+.entete{
+	width:1500px;
+	margin: 0px;
+	padding: 40px;
+	background-color: #fdf1b8;
+	padding-top: 20px;
+	margin-bottom: 15px;
+	height: 60px
+
+}
+.logo{
+	width: 150px;
+	
+}
+
+
+}
+
+
+ body{
+	background-color: withe;	
+	margin: 0;
+}
+#menu ul{
+padding: 0;
+margin: 0;text-align: center;
+padding: 1em;
+border: 50px;
+background-color: #9f551e;
+}
+#menu ul li{
+	list-style: none;
+	display: inline;
+	
+	
+	
+	
+}
+#menu ul li a{
+	display: inline-block;
+	margin: 0 30px;
+	width: 100px;
+	line-height: 50px;
+	background: #fdf1b8;
+	color:  #9f551e;
+	text-decoration: none;
+	font-size: 1.1em;
+	border-radius: 1em;
+}
+#menu ul li a:hover{
+	background: maroon;
+}
+
+#voir section form{
+	margin: 20 auto;
+	width: 400px;
+	padding: 1em;
+	border:1px solid #ccc;
+	border-radius: 1em;
+}
+#voir section form div + div{
+	margin-top: 1em;
+}
+#voir section{
+	display: block;
+	width: 90%;
+	margin: auto;
+
+}
+#voir section p{
+font-size: 20px;
+}
+label{
+	display: inline-block;
+	width: 90px;
+	text-align: right;
+	padding: 10px
+}
+input, textarea{
+	font: 1em sans-serif;
+	border: 1px solid #999;
+}
+ textarea{
+ 	vertical-align: top;
+ 	padding: 50px;
+ }
+
+.sub button{
+padding-right: 80px;
+}
+button{
+	margin-left: 8em;
+}
+
+#fin footer{
+	text-align: center;
+	display: block;
+	background-color: #fdf1b8;
+	height: 50%
+}
+#fin footer p,a{
+	color: maroon;
+	font-weight: 
+	top: 18px;
+}
+
+#texte{
+	margin-left: 200px;
+	display: none;
+
+	
+}
+
+
+
+
+ 	
+ 	
+
+ 
+
+
+
+
+
+
+
